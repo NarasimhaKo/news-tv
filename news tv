@@ -1,0 +1,46 @@
+#EXTINF:0,NAMMA KUDLA
+http://livestream.webtvindia.in/namma/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0,NAMMA KUDLA 24×7
+http://livestream.webtvindia.in/namma247/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0,DAIJIWORLD
+http://bbnnews.livebox.co.in/daijiworldtvhls/live.m3u8
+#EXTINF:0,V4 NEWS
+http://103.53.41.226:1935/v4news/livestream/playlist.m3u8
+#EXTINF:0,NAMMA TV
+http://103.130.188.26:1935/ntv/live/live/playlist.m3u8
+#EXTINF:0, CHANNEL U
+http://live.cloud6.in:1935/live1/uchannel/playlist.m3u8
+#EXTINF:0,SUVARNA NEWS
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
+#EXTINF:0,PRAJAA TV NEWS
+http://203.192.247.182:1935/ka-prajaa/prajaa-news/playlist.m3u8
+#EXTINF:0,PUBLIC TV
+https://vidcdn.vidgyor.com/publictv-origin/liveabr/playlist.m3u8
+#EXTINF:0,BTV
+http://vidnetcdn.vidgyor.com/btv-origin/liveabr/playlist.m3u8
+#EXTINF:0,Dighvijay News
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/playlist.m3u8
+#EXTINF:0,NEWS 18 KANNADA
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/master.m3u8?hdnea=st=1560070573~exp=1560106573~acl=/*~hmac=66c63ee0e7418ac74fab541895528eb5ea4761c32dbb0a7942903850d889badc
+#EXTINF:0,TV 5 KANNADA
+https://m-a1-j2apps.s.llnwi.net/Tlive/TV5Kannada/playlist_dvr_timeshift-0-10800.m3u8 
+Type#EXTINF:0,TV 9 KANNADA
+https://m-a6-j2apps.s.llnwi.net/Tlive/TV9Kannada/playlist_dvr_timeshift-0-10800.m3u8
+#EXTINF:0,RAJ NEWS KANNADA
+https://m-a2-j2apps.s.llnwi.net/Tlive/RajNewsKannada/playlist_dvr_timeshift-0-10800.m3u8
+#EXTINF:0,SARAL JEEVAN
+https://vidnetcdn.vidgyor.com/saraljeevan-origin/liveabr/saraljeevan-origin/live3/chunks.m3u8
+#EXTINF:0, AYUSH TV
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:0, JK TV KANNADA
+https://jktvkannada.livebox.co.in/jktvrechls/jktvrecord.m3u8
+ #EXTINF:0,JANATAA TV KANNADA
+https://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
+#EXTINF:0,SSV TV
+https://bbnnews.livebox.co.in/ssvtvhls/live.m3u8
+#EXTINF:0,RAJ MUSIC KANNADA
+https://m-a6-j2apps.s.llnwi.net/Tlive/RajMusicKannada/playlist_dvr_timeshift-0-10800.m3u8
+#EXTINF:0,DD CHANDANA
+https://https://m-c15-j2apps.s.llnwi.net/hls/0255.DDChandana.in.m3u8
+
+
